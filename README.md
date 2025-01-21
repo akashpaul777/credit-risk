@@ -1,4 +1,4 @@
-#Machine Learning Credit Scoring
+# Machine Learning Credit Scoring
 
 ## Overview
 This notebook, **Module_2_ML_Credit_Scoring.ipynb**, is designed to explore and implement machine learning techniques for credit scoring. It provides a step-by-step guide to data preprocessing, feature engineering, model training, evaluation, and interpretation in the context of predicting creditworthiness.
